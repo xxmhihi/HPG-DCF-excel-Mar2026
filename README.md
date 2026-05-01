@@ -6,9 +6,9 @@ Self practice
 
 This repository features a comprehensive financial model built entirely in Excel, demonstrating fundamental analysis and valuation techniques for a leading player in the Vietnamese steel industry. Key components include:
 
-    **DCF Valuation**: Discounted Cash Flow analysis utilizing Free Cash Flow to the Firm (FCFF) and Free Cash Flow to Equity (FCFE).
+   **DCF Valuation**: Discounted Cash Flow analysis utilizing Free Cash Flow to the Firm (FCFF) and Free Cash Flow to Equity (FCFE).
     
-    **Relative Valuation**: Domestic and regional Benchmarking using P/E and P/B multiples.
+   **Relative Valuation**: Domestic and regional Benchmarking using P/E and P/B multiples.
     
 Author's Note: This project served as a practical application. While I referenced professional layouts to ensure the model met industry standards, all data inputs, logical links, and forecasting assumptions were self-built from scratch.
 
